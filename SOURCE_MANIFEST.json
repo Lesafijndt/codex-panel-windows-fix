@@ -1,0 +1,10 @@
+{
+  "source_base": "Documents/Codex",
+  "files": [
+    "2026-11-04\\codex-on-crack-plugin-codex-on\\work\\panel-windows\\patch.mjs",
+    "2026-11-04\\codex-on-crack-plugin-codex-on\\work\\panel-windows\\verify.mjs",
+    "2026-11-04\\codex-on-crack-plugin-codex-on\\work\\panel-windows\\verify-http.mjs",
+    "2026-11-04\\codex-on-crack-plugin-codex-on\\work\\panel-windows\\verify-upstream.mjs"
+  ],
+  "staging": "sanitized archive; originals unchanged"
+}
